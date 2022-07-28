@@ -1,1 +1,1 @@
-# makefile_sample
+### simple makefile sample
